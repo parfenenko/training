@@ -1,5 +1,0 @@
-Hello, my name is Tatyana Skripnik.
-This is my first homework on internal test automation classes.
-Here we are learning to work with Git & GitHub.
-I've created a folder and txt file using Git Bash.
-End :)
